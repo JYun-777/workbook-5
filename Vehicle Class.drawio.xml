@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.4">
+  <diagram name="Page-1" id="CuysNrMIcheCfutl2Npu">
+    <mxGraphModel dx="723" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n4HsQix4AW56mG1l1tik-1" value="&lt;b&gt;Vehicle&lt;/b&gt;&lt;div&gt;fuel&lt;/div&gt;&lt;div&gt;max speed&lt;/div&gt;&lt;div&gt;acceleration&lt;/div&gt;&lt;div&gt;seats/capacity&lt;/div&gt;&lt;div&gt;storage&lt;/div&gt;&lt;div&gt;turn rate&lt;/div&gt;&lt;div&gt;weight&lt;/div&gt;&lt;div&gt;durabilty&lt;/div&gt;&lt;div&gt;height&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="61" width="350" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n4HsQix4AW56mG1l1tik-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.297;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.692;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="n4HsQix4AW56mG1l1tik-15" target="n4HsQix4AW56mG1l1tik-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="340" as="sourcePoint" />
+            <mxPoint x="340" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4HsQix4AW56mG1l1tik-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.426;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n4HsQix4AW56mG1l1tik-14" target="n4HsQix4AW56mG1l1tik-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4HsQix4AW56mG1l1tik-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.577;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n4HsQix4AW56mG1l1tik-13" target="n4HsQix4AW56mG1l1tik-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="350" as="sourcePoint" />
+            <mxPoint x="425" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4HsQix4AW56mG1l1tik-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.408;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.706;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n4HsQix4AW56mG1l1tik-12" target="n4HsQix4AW56mG1l1tik-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4HsQix4AW56mG1l1tik-12" value="&lt;b&gt;Moped&lt;/b&gt;&lt;div&gt;tilt&lt;/div&gt;&lt;div&gt;hasStorage&lt;/div&gt;&lt;div&gt;engineCC&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="400" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n4HsQix4AW56mG1l1tik-13" value="&lt;b&gt;HoverCraft&lt;/b&gt;&lt;div&gt;terrain&lt;/div&gt;&lt;div&gt;fancount&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4HsQix4AW56mG1l1tik-14" value="&lt;b&gt;Semi Truck&lt;/b&gt;&lt;div&gt;attachTrailer&lt;/div&gt;&lt;div&gt;detachTrailer&lt;/div&gt;&lt;div&gt;Trailer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="395" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n4HsQix4AW56mG1l1tik-15" value="&lt;b&gt;Car&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22moped%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22460%22%20y%3D%22350%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3Eis&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;openTrunk&lt;/div&gt;&lt;div&gt;Sunroof&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
